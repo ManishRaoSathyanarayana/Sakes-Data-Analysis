@@ -1,4 +1,4 @@
-Sales data analysis with Pivot Tables in Excel
+#Sales data analysis with Pivot Tables in Excel
 My solutions to ModelOff 2013 Data Analysis questions in Excel. To run, download the MO13-Data-Analysis-Data-Workbook.xlsx file and open with Excel 2010 or later.
 
 Original file contains 5,016 sales records and 11 columns. 3 columns had to be added as part of the solution to the assignment. The answers to following questions are included in the Excel workbook:
